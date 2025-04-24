@@ -2,7 +2,7 @@
 디엠엠 + 판자 접속 플러그인
 
 # 방법
-![image](https://github.com/user-attachments/assets/4535f171-64c3-4433-a985-894efeb27abc)
+![그림1](https://github.com/user-attachments/assets/c54db97c-bd82-41f4-8271-345467331e2f)
 
 1. 먼저 Code을 눌러서 Download zip 선택 후 다운
 
@@ -10,7 +10,7 @@
 
 3. 크롬에서 주소창에 chrome://extensions/ 붙여넣기
 
-![image](https://github.com/user-attachments/assets/0b52d30b-586f-4914-befd-9e12c9eed9a3)
+![그림2](https://github.com/user-attachments/assets/443fd08c-4091-4fbd-ade2-8e028f7441a5)
 
 4. 맨 오른쪽 위에 개발자 모드 활성화
 
