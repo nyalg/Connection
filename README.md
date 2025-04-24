@@ -17,3 +17,7 @@
 ![image](https://github.com/user-attachments/assets/cc67a433-86ca-4aac-a517-f282b0f476c7)
 
 5. 압축해제된 확장 프로그램 로드 눌러서 확장프로그램 폴더 열고 폴더선택. 끝.
+
+---
+
+계기가 된 글: https://gall.dcinside.com/board/view/?id=touken&no=377340&exception_mode=recommend&page=6
