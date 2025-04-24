@@ -1,0 +1,12 @@
+{
+    "name": "디엠엠 판자 접속",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["https://dmm.com/*", "https://*.dmm.com/*", "https://dmm.co.jp/*", "https://*.dmm.co.jp/*"],
+            "js": ["content-script.js"]
+        }
+    ],
+    "permissions": ["cookies"]
+}
